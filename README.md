@@ -28,7 +28,6 @@ Este proyecto implementa un motor de raycasting desde cero en Rust para crear un
 ### Mecánicas de Juego
 
 - **Objetivo**: Recolectar todos los balones de fútbol americano dispersos por el laberinto
-- **Movimiento**: Controles estilo FPS con WASD y rotación con ratón
 - **Progresión**: El juego termina cuando se recolectan todos los balones
 - **Feedback Visual**: Los balones parpadean para mayor visibilidad
 - **Feedback Audio**: Sonidos de touchdown al recolectar balones
